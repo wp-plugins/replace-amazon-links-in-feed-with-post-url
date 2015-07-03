@@ -12,7 +12,10 @@ A plugin to replace Amazon Affiliate links in a feed with a URL to the post dire
 
 == Description ==
 
-A plugin to replace Amazon Affiliate links in a feed with a URL to the post directly.
+According to Amazon's Terms of Service, affiliates cannot use affiliate links in any emails. Unfortunately, many people use RSS feeds to populate their emails to users. One solution was to simply remove the affiliate links from feeds, which works just fine. But I came up with a solution (out of need) that changed the affiliate link in a feed into a link to the post itself.
+
+Once on the live site, the affiliate link will work as normal, this plugin just facilitates an easier way for the end user to get the affiliate link.
+
 
 == Installation ==
 
