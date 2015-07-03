@@ -30,5 +30,5 @@ None right now!
 == Changelog ==
 
 = 1.0 =
-* Initial Releae to WP.org
+* Initial Release to WP.org publicly
 
