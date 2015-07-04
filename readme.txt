@@ -25,7 +25,9 @@ Once on the live site, the affiliate link will work as normal, this plugin just 
 
 == Frequently Asked Questions ==
 
-None right now!
+= I'm getting an error when I activate the plugin! =
+
+If you are a client of Klong Designs, you may already have this functionality added to your site already. Please post a support question on the support tab. Most likely you already have this code installed and since the function is the same it's cause this duplicate function declaration error.
 
 == Screenshots ==
 
